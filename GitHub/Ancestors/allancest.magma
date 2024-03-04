@@ -1,0 +1,22 @@
+Attach("gl2.m");
+load "gl2data.m";
+X2 := GL2Load("gl2_big2adic.txt");
+
+// Return labels of all supergroups of a given group
+
+function ancestors(label)
+  found := X2[label]`parents;
+  queue := found;
+  while #queue gt 0 do
+    cur := queue[1];
+    Remove(~queue,1);
+    new := X2[cur]`parents;
+    for d in new do
+      if not (d in found) then
+        Append(~queue,d);
+        Append(~found,d);
+      end if;
+    end for;
+  end while;
+  return GL2SortLabels(found);
+end function;

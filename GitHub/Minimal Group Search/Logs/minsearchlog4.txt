@@ -1,0 +1,2339 @@
+Pass 1 through queue. Current order is 8192. Queue size is 0.
+Pass 2 through queue. Current order is 2048. Queue size is 15.
+Pass 3 through queue. Current order is 2048. Queue size is 78.
+Pass 4 through queue. Current order is 2048. Queue size is 93.
+Pass 5 through queue. Current order is 2048. Queue size is 108.
+Pass 6 through queue. Current order is 2048. Queue size is 111.
+Pass 7 through queue. Current order is 2048. Queue size is 116.
+Pass 8 through queue. Current order is 2048. Queue size is 117.
+Pass 9 through queue. Current order is 2048. Queue size is 124.
+Pass 10 through queue. Current order is 2048. Queue size is 125.
+Pass 11 through queue. Current order is 2048. Queue size is 132.
+Pass 12 through queue. Current order is 2048. Queue size is 139.
+Pass 13 through queue. Current order is 2048. Queue size is 146.
+Pass 14 through queue. Current order is 2048. Queue size is 147.
+Pass 15 through queue. Current order is 2048. Queue size is 154.
+Pass 16 through queue. Current order is 2048. Queue size is 161.
+Pass 17 through queue. Current order is 2048. Queue size is 168.
+Pass 18 through queue. Current order is 128. Queue size is 169.
+Pass 19 through queue. Current order is 128. Queue size is 184.
+Pass 20 through queue. Current order is 128. Queue size is 187.
+Pass 21 through queue. Current order is 128. Queue size is 190.
+Pass 22 through queue. Current order is 128. Queue size is 205.
+Pass 23 through queue. Current order is 128. Queue size is 220.
+Pass 24 through queue. Current order is 128. Queue size is 223.
+Pass 25 through queue. Current order is 128. Queue size is 226.
+Pass 26 through queue. Current order is 128. Queue size is 241.
+Pass 27 through queue. Current order is 128. Queue size is 248.
+Pass 28 through queue. Current order is 128. Queue size is 249.
+Pass 29 through queue. Current order is 128. Queue size is 249.
+Pass 30 through queue. Current order is 128. Queue size is 252.
+Pass 31 through queue. Current order is 128. Queue size is 253.
+Pass 32 through queue. Current order is 128. Queue size is 260.
+Pass 33 through queue. Current order is 128. Queue size is 260.
+Pass 34 through queue. Current order is 128. Queue size is 263.
+Pass 35 through queue. Current order is 128. Queue size is 270.
+Pass 36 through queue. Current order is 128. Queue size is 271.
+Pass 37 through queue. Current order is 128. Queue size is 272.
+Pass 38 through queue. Current order is 128. Queue size is 279.
+Pass 39 through queue. Current order is 128. Queue size is 280.
+Pass 40 through queue. Current order is 128. Queue size is 287.
+Pass 41 through queue. Current order is 128. Queue size is 288.
+Pass 42 through queue. Current order is 128. Queue size is 295.
+Pass 43 through queue. Current order is 128. Queue size is 302.
+Pass 44 through queue. Current order is 128. Queue size is 303.
+Pass 45 through queue. Current order is 128. Queue size is 304.
+Pass 46 through queue. Current order is 128. Queue size is 311.
+Pass 47 through queue. Current order is 128. Queue size is 312.
+Pass 48 through queue. Current order is 128. Queue size is 319.
+Pass 49 through queue. Current order is 128. Queue size is 320.
+Pass 50 through queue. Current order is 128. Queue size is 327.
+Pass 51 through queue. Current order is 128. Queue size is 334.
+Pass 52 through queue. Current order is 128. Queue size is 335.
+Pass 53 through queue. Current order is 128. Queue size is 335.
+Pass 54 through queue. Current order is 128. Queue size is 338.
+Pass 55 through queue. Current order is 128. Queue size is 339.
+Pass 56 through queue. Current order is 128. Queue size is 346.
+Pass 57 through queue. Current order is 128. Queue size is 346.
+Pass 58 through queue. Current order is 128. Queue size is 349.
+Pass 59 through queue. Current order is 128. Queue size is 364.
+Pass 60 through queue. Current order is 128. Queue size is 367.
+Pass 61 through queue. Current order is 128. Queue size is 370.
+Pass 62 through queue. Current order is 128. Queue size is 385.
+Pass 63 through queue. Current order is 128. Queue size is 400.
+Pass 64 through queue. Current order is 128. Queue size is 403.
+Pass 65 through queue. Current order is 128. Queue size is 406.
+Pass 66 through queue. Current order is 128. Queue size is 421.
+Pass 67 through queue. Current order is 128. Queue size is 428.
+Pass 68 through queue. Current order is 128. Queue size is 429.
+Pass 69 through queue. Current order is 128. Queue size is 430.
+Pass 70 through queue. Current order is 128. Queue size is 437.
+Pass 71 through queue. Current order is 128. Queue size is 438.
+Pass 72 through queue. Current order is 128. Queue size is 445.
+Pass 73 through queue. Current order is 128. Queue size is 446.
+Pass 74 through queue. Current order is 128. Queue size is 453.
+Pass 75 through queue. Current order is 128. Queue size is 460.
+Pass 76 through queue. Current order is 128. Queue size is 461.
+Pass 77 through queue. Current order is 128. Queue size is 462.
+Pass 78 through queue. Current order is 128. Queue size is 469.
+Pass 79 through queue. Current order is 128. Queue size is 470.
+Pass 80 through queue. Current order is 128. Queue size is 477.
+Pass 81 through queue. Current order is 128. Queue size is 478.
+Pass 82 through queue. Current order is 256. Queue size is 485.
+Pass 83 through queue. Current order is 256. Queue size is 485.
+Pass 84 through queue. Current order is 256. Queue size is 488.
+Pass 85 through queue. Current order is 256. Queue size is 491.
+Pass 86 through queue. Current order is 256. Queue size is 506.
+Pass 87 through queue. Current order is 256. Queue size is 507.
+Pass 88 through queue. Current order is 256. Queue size is 514.
+Pass 89 through queue. Current order is 256. Queue size is 515.
+Pass 90 through queue. Current order is 256. Queue size is 522.
+Pass 91 through queue. Current order is 256. Queue size is 525.
+Pass 92 through queue. Current order is 256. Queue size is 540.
+Pass 93 through queue. Current order is 256. Queue size is 540.
+Pass 94 through queue. Current order is 256. Queue size is 543.
+Pass 95 through queue. Current order is 256. Queue size is 544.
+Pass 96 through queue. Current order is 256. Queue size is 551.
+Pass 97 through queue. Current order is 256. Queue size is 552.
+Pass 98 through queue. Current order is 256. Queue size is 559.
+Pass 99 through queue. Current order is 256. Queue size is 566.
+Pass 100 through queue. Current order is 256. Queue size is 567.
+Pass 101 through queue. Current order is 256. Queue size is 574.
+Pass 102 through queue. Current order is 256. Queue size is 575.
+Pass 103 through queue. Current order is 256. Queue size is 582.
+Pass 104 through queue. Current order is 256. Queue size is 583.
+Pass 105 through queue. Current order is 256. Queue size is 598.
+Pass 106 through queue. Current order is 256. Queue size is 601.
+Pass 107 through queue. Current order is 256. Queue size is 608.
+Pass 108 through queue. Current order is 256. Queue size is 609.
+Pass 109 through queue. Current order is 256. Queue size is 616.
+Pass 110 through queue. Current order is 256. Queue size is 617.
+Pass 111 through queue. Current order is 256. Queue size is 632.
+Pass 112 through queue. Current order is 256. Queue size is 635.
+Pass 113 through queue. Current order is 256. Queue size is 642.
+Pass 114 through queue. Current order is 512. Queue size is 643.
+Pass 115 through queue. Current order is 512. Queue size is 650.
+Pass 116 through queue. Current order is 512. Queue size is 653.
+Pass 117 through queue. Current order is 512. Queue size is 656.
+Pass 118 through queue. Current order is 512. Queue size is 663.
+Pass 119 through queue. Current order is 512. Queue size is 670.
+Pass 120 through queue. Current order is 512. Queue size is 669.
+Pass 121 through queue. Current order is 512. Queue size is 668.
+Pass 122 through queue. Current order is 512. Queue size is 675.
+Pass 123 through queue. Current order is 512. Queue size is 674.
+Pass 124 through queue. Current order is 512. Queue size is 673.
+Pass 125 through queue. Current order is 512. Queue size is 672.
+Pass 126 through queue. Current order is 512. Queue size is 671.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 127 through queue. Current order is 512. Queue size is 670.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 128 through queue. Current order is 512. Queue size is 669.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 129 through queue. Current order is 512. Queue size is 668.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 130 through queue. Current order is 512. Queue size is 667.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 131 through queue. Current order is 512. Queue size is 666.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 132 through queue. Current order is 512. Queue size is 665.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 133 through queue. Current order is 512. Queue size is 664.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 134 through queue. Current order is 1024. Queue size is 663.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 135 through queue. Current order is 1024. Queue size is 662.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 136 through queue. Current order is 512. Queue size is 661.
+Pass 137 through queue. Current order is 512. Queue size is 668.
+Pass 138 through queue. Current order is 512. Queue size is 675.
+Pass 139 through queue. Current order is 512. Queue size is 682.
+Pass 140 through queue. Current order is 512. Queue size is 689.
+Pass 141 through queue. Current order is 512. Queue size is 696.
+Pass 142 through queue. Current order is 512. Queue size is 703.
+Pass 143 through queue. Current order is 512. Queue size is 710.
+Pass 144 through queue. Current order is 512. Queue size is 717.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 145 through queue. Current order is 512. Queue size is 716.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 146 through queue. Current order is 512. Queue size is 715.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 147 through queue. Current order is 512. Queue size is 714.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 148 through queue. Current order is 512. Queue size is 713.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 149 through queue. Current order is 512. Queue size is 712.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 150 through queue. Current order is 512. Queue size is 711.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 151 through queue. Current order is 512. Queue size is 710.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 152 through queue. Current order is 512. Queue size is 709.
+Pass 153 through queue. Current order is 512. Queue size is 716.
+Pass 154 through queue. Current order is 512. Queue size is 717.
+Pass 155 through queue. Current order is 512. Queue size is 718.
+Pass 156 through queue. Current order is 512. Queue size is 725.
+Pass 157 through queue. Current order is 512. Queue size is 732.
+Pass 158 through queue. Current order is 512. Queue size is 733.
+Pass 159 through queue. Current order is 512. Queue size is 734.
+Pass 160 through queue. Current order is 1024. Queue size is 741.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 161 through queue. Current order is 1024. Queue size is 740.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 162 through queue. Current order is 512. Queue size is 739.
+Pass 163 through queue. Current order is 512. Queue size is 746.
+Pass 164 through queue. Current order is 512. Queue size is 753.
+Pass 165 through queue. Current order is 512. Queue size is 760.
+Pass 166 through queue. Current order is 512. Queue size is 767.
+Pass 167 through queue. Current order is 512. Queue size is 774.
+Pass 168 through queue. Current order is 512. Queue size is 781.
+Pass 169 through queue. Current order is 512. Queue size is 788.
+Pass 170 through queue. Current order is 512. Queue size is 795.
+Pass 171 through queue. Current order is 512. Queue size is 798.
+Pass 172 through queue. Current order is 512. Queue size is 801.
+Pass 173 through queue. Current order is 512. Queue size is 808.
+Pass 174 through queue. Current order is 512. Queue size is 815.
+Pass 175 through queue. Current order is 512. Queue size is 818.
+Pass 176 through queue. Current order is 512. Queue size is 821.
+Pass 177 through queue. Current order is 512. Queue size is 828.
+Pass 178 through queue. Current order is 512. Queue size is 835.
+Pass 179 through queue. Current order is 512. Queue size is 842.
+Pass 180 through queue. Current order is 512. Queue size is 845.
+Pass 181 through queue. Current order is 512. Queue size is 852.
+Pass 182 through queue. Current order is 512. Queue size is 855.
+Pass 183 through queue. Current order is 512. Queue size is 862.
+Pass 184 through queue. Current order is 512. Queue size is 865.
+Pass 185 through queue. Current order is 512. Queue size is 872.
+Pass 186 through queue. Current order is 1024. Queue size is 875.
+Pass 187 through queue. Current order is 1024. Queue size is 882.
+Pass 188 through queue. Current order is 16. Queue size is 889.
+Pass 189 through queue. Current order is 16. Queue size is 890.
+Pass 190 through queue. Current order is 16. Queue size is 891.
+Pass 191 through queue. Current order is 16. Queue size is 892.
+Pass 192 through queue. Current order is 16. Queue size is 893.
+Pass 193 through queue. Current order is 16. Queue size is 894.
+Pass 194 through queue. Current order is 16. Queue size is 895.
+Pass 195 through queue. Current order is 16. Queue size is 896.
+Pass 196 through queue. Current order is 16. Queue size is 897.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 197 through queue. Current order is 16. Queue size is 896.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 198 through queue. Current order is 16. Queue size is 895.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 199 through queue. Current order is 16. Queue size is 894.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 200 through queue. Current order is 16. Queue size is 893.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 201 through queue. Current order is 16. Queue size is 892.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 202 through queue. Current order is 16. Queue size is 891.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 203 through queue. Current order is 16. Queue size is 890.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 204 through queue. Current order is 32. Queue size is 889.
+Pass 205 through queue. Current order is 32. Queue size is 890.
+Pass 206 through queue. Current order is 32. Queue size is 891.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 207 through queue. Current order is 32. Queue size is 890.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 208 through queue. Current order is 32. Queue size is 889.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 209 through queue. Current order is 32. Queue size is 888.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 210 through queue. Current order is 32. Queue size is 887.
+Pass 211 through queue. Current order is 32. Queue size is 888.
+Pass 212 through queue. Current order is 16. Queue size is 889.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 213 through queue. Current order is 16. Queue size is 888.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 214 through queue. Current order is 16. Queue size is 887.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 215 through queue. Current order is 16. Queue size is 886.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 216 through queue. Current order is 16. Queue size is 885.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 217 through queue. Current order is 16. Queue size is 884.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 218 through queue. Current order is 16. Queue size is 883.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 219 through queue. Current order is 16. Queue size is 882.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 220 through queue. Current order is 16. Queue size is 881.
+Pass 221 through queue. Current order is 16. Queue size is 882.
+Pass 222 through queue. Current order is 16. Queue size is 883.
+Pass 223 through queue. Current order is 16. Queue size is 884.
+Pass 224 through queue. Current order is 16. Queue size is 885.
+Pass 225 through queue. Current order is 16. Queue size is 886.
+Pass 226 through queue. Current order is 16. Queue size is 887.
+Pass 227 through queue. Current order is 16. Queue size is 888.
+Pass 228 through queue. Current order is 16. Queue size is 889.
+Pass 229 through queue. Current order is 16. Queue size is 888.
+Pass 230 through queue. Current order is 16. Queue size is 887.
+Pass 231 through queue. Current order is 16. Queue size is 886.
+Pass 232 through queue. Current order is 16. Queue size is 885.
+Pass 233 through queue. Current order is 16. Queue size is 884.
+Pass 234 through queue. Current order is 16. Queue size is 883.
+Pass 235 through queue. Current order is 16. Queue size is 882.
+Pass 236 through queue. Current order is 16. Queue size is 881.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 237 through queue. Current order is 16. Queue size is 880.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 238 through queue. Current order is 16. Queue size is 879.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 239 through queue. Current order is 16. Queue size is 878.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 240 through queue. Current order is 16. Queue size is 877.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 241 through queue. Current order is 16. Queue size is 876.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 242 through queue. Current order is 16. Queue size is 875.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 243 through queue. Current order is 16. Queue size is 874.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 244 through queue. Current order is 32. Queue size is 873.
+Pass 245 through queue. Current order is 32. Queue size is 872.
+Pass 246 through queue. Current order is 32. Queue size is 871.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 247 through queue. Current order is 32. Queue size is 870.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 248 through queue. Current order is 32. Queue size is 869.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 249 through queue. Current order is 32. Queue size is 868.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 250 through queue. Current order is 32. Queue size is 867.
+Pass 251 through queue. Current order is 32. Queue size is 866.
+Pass 252 through queue. Current order is 16. Queue size is 865.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 253 through queue. Current order is 16. Queue size is 864.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 254 through queue. Current order is 16. Queue size is 863.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 255 through queue. Current order is 16. Queue size is 862.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 256 through queue. Current order is 16. Queue size is 861.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 257 through queue. Current order is 16. Queue size is 860.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 258 through queue. Current order is 16. Queue size is 859.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 259 through queue. Current order is 16. Queue size is 858.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 260 through queue. Current order is 16. Queue size is 857.
+Pass 261 through queue. Current order is 16. Queue size is 856.
+Pass 262 through queue. Current order is 16. Queue size is 855.
+Pass 263 through queue. Current order is 16. Queue size is 854.
+Pass 264 through queue. Current order is 16. Queue size is 853.
+Pass 265 through queue. Current order is 16. Queue size is 852.
+Pass 266 through queue. Current order is 16. Queue size is 851.
+Pass 267 through queue. Current order is 16. Queue size is 850.
+Pass 268 through queue. Current order is 32. Queue size is 849.
+Pass 269 through queue. Current order is 32. Queue size is 850.
+Pass 270 through queue. Current order is 32. Queue size is 851.
+Pass 271 through queue. Current order is 32. Queue size is 852.
+Pass 272 through queue. Current order is 32. Queue size is 853.
+Pass 273 through queue. Current order is 32. Queue size is 852.
+Pass 274 through queue. Current order is 32. Queue size is 851.
+Pass 275 through queue. Current order is 32. Queue size is 850.
+Pass 276 through queue. Current order is 64. Queue size is 849.
+Pass 277 through queue. Current order is 64. Queue size is 848.
+Pass 278 through queue. Current order is 64. Queue size is 847.
+Pass 279 through queue. Current order is 32. Queue size is 846.
+Pass 280 through queue. Current order is 32. Queue size is 845.
+Pass 281 through queue. Current order is 32. Queue size is 844.
+Pass 282 through queue. Current order is 32. Queue size is 843.
+Pass 283 through queue. Current order is 64. Queue size is 842.
+Pass 284 through queue. Current order is 64. Queue size is 841.
+Pass 285 through queue. Current order is 32. Queue size is 840.
+Pass 286 through queue. Current order is 32. Queue size is 841.
+Pass 287 through queue. Current order is 32. Queue size is 842.
+Pass 288 through queue. Current order is 32. Queue size is 843.
+Pass 289 through queue. Current order is 32. Queue size is 844.
+Pass 290 through queue. Current order is 32. Queue size is 843.
+Pass 291 through queue. Current order is 32. Queue size is 842.
+Pass 292 through queue. Current order is 32. Queue size is 841.
+Pass 293 through queue. Current order is 64. Queue size is 840.
+Pass 294 through queue. Current order is 32. Queue size is 839.
+Pass 295 through queue. Current order is 32. Queue size is 838.
+Pass 296 through queue. Current order is 32. Queue size is 837.
+Pass 297 through queue. Current order is 32. Queue size is 836.
+Pass 298 through queue. Current order is 32. Queue size is 835.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 299 through queue. Current order is 32. Queue size is 834.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 300 through queue. Current order is 32. Queue size is 833.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 301 through queue. Current order is 32. Queue size is 832.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 302 through queue. Current order is 32. Queue size is 831.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 303 through queue. Current order is 32. Queue size is 830.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 304 through queue. Current order is 32. Queue size is 829.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 305 through queue. Current order is 32. Queue size is 828.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 306 through queue. Current order is 64. Queue size is 827.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 307 through queue. Current order is 64. Queue size is 826.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 308 through queue. Current order is 64. Queue size is 825.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 309 through queue. Current order is 64. Queue size is 824.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 310 through queue. Current order is 32. Queue size is 823.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 311 through queue. Current order is 32. Queue size is 822.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 312 through queue. Current order is 32. Queue size is 821.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 313 through queue. Current order is 32. Queue size is 820.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 314 through queue. Current order is 32. Queue size is 819.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 315 through queue. Current order is 32. Queue size is 818.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 316 through queue. Current order is 32. Queue size is 817.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 317 through queue. Current order is 32. Queue size is 816.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 318 through queue. Current order is 64. Queue size is 815.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 319 through queue. Current order is 64. Queue size is 814.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 320 through queue. Current order is 32. Queue size is 813.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 321 through queue. Current order is 32. Queue size is 812.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 322 through queue. Current order is 32. Queue size is 811.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 323 through queue. Current order is 32. Queue size is 810.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 324 through queue. Current order is 32. Queue size is 809.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 325 through queue. Current order is 32. Queue size is 808.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 326 through queue. Current order is 32. Queue size is 807.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 327 through queue. Current order is 32. Queue size is 806.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 328 through queue. Current order is 64. Queue size is 805.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 329 through queue. Current order is 64. Queue size is 804.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 330 through queue. Current order is 32. Queue size is 803.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 331 through queue. Current order is 32. Queue size is 802.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 332 through queue. Current order is 32. Queue size is 801.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 333 through queue. Current order is 32. Queue size is 800.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 334 through queue. Current order is 32. Queue size is 799.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 335 through queue. Current order is 32. Queue size is 798.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 336 through queue. Current order is 32. Queue size is 797.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 337 through queue. Current order is 32. Queue size is 796.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 338 through queue. Current order is 32. Queue size is 795.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 339 through queue. Current order is 32. Queue size is 794.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 340 through queue. Current order is 32. Queue size is 793.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 341 through queue. Current order is 32. Queue size is 792.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 342 through queue. Current order is 32. Queue size is 791.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 343 through queue. Current order is 32. Queue size is 790.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 344 through queue. Current order is 32. Queue size is 789.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 345 through queue. Current order is 32. Queue size is 788.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 346 through queue. Current order is 64. Queue size is 787.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 347 through queue. Current order is 64. Queue size is 786.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 348 through queue. Current order is 64. Queue size is 785.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 349 through queue. Current order is 64. Queue size is 784.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 350 through queue. Current order is 32. Queue size is 783.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 351 through queue. Current order is 32. Queue size is 782.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 352 through queue. Current order is 32. Queue size is 781.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 353 through queue. Current order is 32. Queue size is 780.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 354 through queue. Current order is 32. Queue size is 779.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 355 through queue. Current order is 32. Queue size is 778.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 356 through queue. Current order is 32. Queue size is 777.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 357 through queue. Current order is 32. Queue size is 776.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 358 through queue. Current order is 64. Queue size is 775.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 359 through queue. Current order is 64. Queue size is 774.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 360 through queue. Current order is 32. Queue size is 773.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 361 through queue. Current order is 32. Queue size is 772.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 362 through queue. Current order is 32. Queue size is 771.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 363 through queue. Current order is 32. Queue size is 770.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 364 through queue. Current order is 32. Queue size is 769.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 365 through queue. Current order is 32. Queue size is 768.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 366 through queue. Current order is 32. Queue size is 767.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 367 through queue. Current order is 32. Queue size is 766.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 368 through queue. Current order is 64. Queue size is 765.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 369 through queue. Current order is 64. Queue size is 764.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 370 through queue. Current order is 32. Queue size is 763.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 371 through queue. Current order is 32. Queue size is 762.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 372 through queue. Current order is 32. Queue size is 761.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 373 through queue. Current order is 32. Queue size is 760.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 374 through queue. Current order is 32. Queue size is 759.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 375 through queue. Current order is 32. Queue size is 758.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 376 through queue. Current order is 32. Queue size is 757.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 377 through queue. Current order is 32. Queue size is 756.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 378 through queue. Current order is 32. Queue size is 755.
+Pass 379 through queue. Current order is 32. Queue size is 756.
+Pass 380 through queue. Current order is 32. Queue size is 757.
+Pass 381 through queue. Current order is 32. Queue size is 758.
+Pass 382 through queue. Current order is 32. Queue size is 759.
+Pass 383 through queue. Current order is 32. Queue size is 758.
+Pass 384 through queue. Current order is 32. Queue size is 757.
+Pass 385 through queue. Current order is 32. Queue size is 756.
+Pass 386 through queue. Current order is 64. Queue size is 755.
+Pass 387 through queue. Current order is 64. Queue size is 754.
+Pass 388 through queue. Current order is 64. Queue size is 753.
+Pass 389 through queue. Current order is 32. Queue size is 752.
+Pass 390 through queue. Current order is 32. Queue size is 751.
+Pass 391 through queue. Current order is 32. Queue size is 750.
+Pass 392 through queue. Current order is 32. Queue size is 749.
+Pass 393 through queue. Current order is 64. Queue size is 748.
+Pass 394 through queue. Current order is 64. Queue size is 747.
+Pass 395 through queue. Current order is 32. Queue size is 746.
+Pass 396 through queue. Current order is 32. Queue size is 747.
+Pass 397 through queue. Current order is 32. Queue size is 748.
+Pass 398 through queue. Current order is 32. Queue size is 749.
+Pass 399 through queue. Current order is 32. Queue size is 750.
+Pass 400 through queue. Current order is 32. Queue size is 749.
+Pass 401 through queue. Current order is 32. Queue size is 748.
+Pass 402 through queue. Current order is 32. Queue size is 747.
+Pass 403 through queue. Current order is 64. Queue size is 746.
+Pass 404 through queue. Current order is 32. Queue size is 745.
+Pass 405 through queue. Current order is 32. Queue size is 744.
+Pass 406 through queue. Current order is 32. Queue size is 743.
+Pass 407 through queue. Current order is 32. Queue size is 742.
+Pass 408 through queue. Current order is 16. Queue size is 741.
+Pass 409 through queue. Current order is 16. Queue size is 742.
+Pass 410 through queue. Current order is 16. Queue size is 743.
+Pass 411 through queue. Current order is 16. Queue size is 744.
+Pass 412 through queue. Current order is 16. Queue size is 745.
+Pass 413 through queue. Current order is 16. Queue size is 746.
+Pass 414 through queue. Current order is 16. Queue size is 747.
+Pass 415 through queue. Current order is 16. Queue size is 748.
+Pass 416 through queue. Current order is 16. Queue size is 749.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 417 through queue. Current order is 16. Queue size is 748.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 418 through queue. Current order is 16. Queue size is 747.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 419 through queue. Current order is 16. Queue size is 746.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 420 through queue. Current order is 16. Queue size is 745.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 421 through queue. Current order is 16. Queue size is 744.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 422 through queue. Current order is 16. Queue size is 743.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 423 through queue. Current order is 16. Queue size is 742.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 424 through queue. Current order is 32. Queue size is 741.
+Pass 425 through queue. Current order is 32. Queue size is 742.
+Pass 426 through queue. Current order is 32. Queue size is 743.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 427 through queue. Current order is 32. Queue size is 742.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 428 through queue. Current order is 32. Queue size is 741.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 429 through queue. Current order is 32. Queue size is 740.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 430 through queue. Current order is 32. Queue size is 739.
+Pass 431 through queue. Current order is 32. Queue size is 740.
+Pass 432 through queue. Current order is 16. Queue size is 741.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 433 through queue. Current order is 16. Queue size is 740.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 434 through queue. Current order is 16. Queue size is 739.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 435 through queue. Current order is 16. Queue size is 738.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 436 through queue. Current order is 16. Queue size is 737.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 437 through queue. Current order is 16. Queue size is 736.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 438 through queue. Current order is 16. Queue size is 735.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 439 through queue. Current order is 16. Queue size is 734.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 440 through queue. Current order is 16. Queue size is 733.
+Pass 441 through queue. Current order is 16. Queue size is 734.
+Pass 442 through queue. Current order is 16. Queue size is 735.
+Pass 443 through queue. Current order is 16. Queue size is 736.
+Pass 444 through queue. Current order is 16. Queue size is 737.
+Pass 445 through queue. Current order is 16. Queue size is 738.
+Pass 446 through queue. Current order is 16. Queue size is 739.
+Pass 447 through queue. Current order is 16. Queue size is 740.
+Pass 448 through queue. Current order is 16. Queue size is 741.
+Pass 449 through queue. Current order is 16. Queue size is 740.
+Pass 450 through queue. Current order is 16. Queue size is 739.
+Pass 451 through queue. Current order is 16. Queue size is 738.
+Pass 452 through queue. Current order is 16. Queue size is 737.
+Pass 453 through queue. Current order is 16. Queue size is 736.
+Pass 454 through queue. Current order is 16. Queue size is 735.
+Pass 455 through queue. Current order is 16. Queue size is 734.
+Pass 456 through queue. Current order is 16. Queue size is 733.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 457 through queue. Current order is 16. Queue size is 732.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 458 through queue. Current order is 16. Queue size is 731.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 459 through queue. Current order is 16. Queue size is 730.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 460 through queue. Current order is 16. Queue size is 729.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 461 through queue. Current order is 16. Queue size is 728.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 462 through queue. Current order is 16. Queue size is 727.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 463 through queue. Current order is 16. Queue size is 726.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 464 through queue. Current order is 32. Queue size is 725.
+Pass 465 through queue. Current order is 32. Queue size is 724.
+Pass 466 through queue. Current order is 32. Queue size is 723.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 467 through queue. Current order is 32. Queue size is 722.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 468 through queue. Current order is 32. Queue size is 721.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 469 through queue. Current order is 32. Queue size is 720.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 470 through queue. Current order is 32. Queue size is 719.
+Pass 471 through queue. Current order is 32. Queue size is 718.
+Pass 472 through queue. Current order is 16. Queue size is 717.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 473 through queue. Current order is 16. Queue size is 716.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 474 through queue. Current order is 16. Queue size is 715.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 475 through queue. Current order is 16. Queue size is 714.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 476 through queue. Current order is 16. Queue size is 713.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 477 through queue. Current order is 16. Queue size is 712.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 478 through queue. Current order is 16. Queue size is 711.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 479 through queue. Current order is 16. Queue size is 710.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 480 through queue. Current order is 16. Queue size is 709.
+Pass 481 through queue. Current order is 16. Queue size is 708.
+Pass 482 through queue. Current order is 16. Queue size is 707.
+Pass 483 through queue. Current order is 16. Queue size is 706.
+Pass 484 through queue. Current order is 16. Queue size is 705.
+Pass 485 through queue. Current order is 16. Queue size is 704.
+Pass 486 through queue. Current order is 16. Queue size is 703.
+Pass 487 through queue. Current order is 16. Queue size is 702.
+Pass 488 through queue. Current order is 32. Queue size is 701.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 489 through queue. Current order is 32. Queue size is 700.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 490 through queue. Current order is 32. Queue size is 699.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 491 through queue. Current order is 32. Queue size is 698.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 492 through queue. Current order is 32. Queue size is 697.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 493 through queue. Current order is 32. Queue size is 696.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 494 through queue. Current order is 32. Queue size is 695.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 495 through queue. Current order is 32. Queue size is 694.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 496 through queue. Current order is 64. Queue size is 693.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 497 through queue. Current order is 64. Queue size is 692.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 498 through queue. Current order is 64. Queue size is 691.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 499 through queue. Current order is 64. Queue size is 690.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 500 through queue. Current order is 32. Queue size is 689.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 501 through queue. Current order is 32. Queue size is 688.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 502 through queue. Current order is 32. Queue size is 687.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 503 through queue. Current order is 32. Queue size is 686.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 504 through queue. Current order is 32. Queue size is 685.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 505 through queue. Current order is 32. Queue size is 684.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 506 through queue. Current order is 32. Queue size is 683.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 507 through queue. Current order is 32. Queue size is 682.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 508 through queue. Current order is 64. Queue size is 681.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 509 through queue. Current order is 64. Queue size is 680.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 510 through queue. Current order is 32. Queue size is 679.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 511 through queue. Current order is 32. Queue size is 678.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 512 through queue. Current order is 32. Queue size is 677.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 513 through queue. Current order is 32. Queue size is 676.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 514 through queue. Current order is 32. Queue size is 675.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 515 through queue. Current order is 32. Queue size is 674.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 516 through queue. Current order is 32. Queue size is 673.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 517 through queue. Current order is 32. Queue size is 672.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 518 through queue. Current order is 64. Queue size is 671.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 519 through queue. Current order is 64. Queue size is 670.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 520 through queue. Current order is 32. Queue size is 669.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 521 through queue. Current order is 32. Queue size is 668.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 522 through queue. Current order is 32. Queue size is 667.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 523 through queue. Current order is 32. Queue size is 666.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 524 through queue. Current order is 32. Queue size is 665.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 525 through queue. Current order is 32. Queue size is 664.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 526 through queue. Current order is 32. Queue size is 663.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 527 through queue. Current order is 32. Queue size is 662.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 528 through queue. Current order is 32. Queue size is 661.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 529 through queue. Current order is 32. Queue size is 660.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 530 through queue. Current order is 32. Queue size is 659.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 531 through queue. Current order is 32. Queue size is 658.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 532 through queue. Current order is 32. Queue size is 657.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 533 through queue. Current order is 32. Queue size is 656.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 534 through queue. Current order is 32. Queue size is 655.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 535 through queue. Current order is 32. Queue size is 654.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 536 through queue. Current order is 64. Queue size is 653.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 537 through queue. Current order is 64. Queue size is 652.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 538 through queue. Current order is 64. Queue size is 651.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 539 through queue. Current order is 64. Queue size is 650.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 540 through queue. Current order is 32. Queue size is 649.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 541 through queue. Current order is 32. Queue size is 648.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 542 through queue. Current order is 32. Queue size is 647.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 543 through queue. Current order is 32. Queue size is 646.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 544 through queue. Current order is 32. Queue size is 645.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 545 through queue. Current order is 32. Queue size is 644.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 546 through queue. Current order is 32. Queue size is 643.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 547 through queue. Current order is 32. Queue size is 642.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 548 through queue. Current order is 64. Queue size is 641.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 549 through queue. Current order is 64. Queue size is 640.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 550 through queue. Current order is 32. Queue size is 639.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 551 through queue. Current order is 32. Queue size is 638.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 552 through queue. Current order is 32. Queue size is 637.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 553 through queue. Current order is 32. Queue size is 636.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 554 through queue. Current order is 32. Queue size is 635.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 555 through queue. Current order is 32. Queue size is 634.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 556 through queue. Current order is 32. Queue size is 633.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 557 through queue. Current order is 32. Queue size is 632.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 558 through queue. Current order is 64. Queue size is 631.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 559 through queue. Current order is 64. Queue size is 630.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 560 through queue. Current order is 32. Queue size is 629.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 561 through queue. Current order is 32. Queue size is 628.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 562 through queue. Current order is 32. Queue size is 627.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 563 through queue. Current order is 32. Queue size is 626.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 564 through queue. Current order is 32. Queue size is 625.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 565 through queue. Current order is 32. Queue size is 624.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 566 through queue. Current order is 32. Queue size is 623.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 567 through queue. Current order is 32. Queue size is 622.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 568 through queue. Current order is 128. Queue size is 621.
+Pass 569 through queue. Current order is 64. Queue size is 620.
+Pass 570 through queue. Current order is 64. Queue size is 619.
+Pass 571 through queue. Current order is 64. Queue size is 618.
+Pass 572 through queue. Current order is 64. Queue size is 617.
+Pass 573 through queue. Current order is 64. Queue size is 616.
+Pass 574 through queue. Current order is 64. Queue size is 617.
+Pass 575 through queue. Current order is 64. Queue size is 616.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 576 through queue. Current order is 64. Queue size is 615.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 577 through queue. Current order is 32. Queue size is 614.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 578 through queue. Current order is 32. Queue size is 613.
+Pass 579 through queue. Current order is 32. Queue size is 612.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 580 through queue. Current order is 32. Queue size is 611.
+Pass 581 through queue. Current order is 32. Queue size is 610.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 582 through queue. Current order is 32. Queue size is 609.
+Pass 583 through queue. Current order is 32. Queue size is 608.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 584 through queue. Current order is 32. Queue size is 607.
+Pass 585 through queue. Current order is 32. Queue size is 606.
+Pass 586 through queue. Current order is 32. Queue size is 605.
+Pass 587 through queue. Current order is 32. Queue size is 604.
+Pass 588 through queue. Current order is 32. Queue size is 603.
+Pass 589 through queue. Current order is 32. Queue size is 602.
+Pass 590 through queue. Current order is 32. Queue size is 601.
+Pass 591 through queue. Current order is 32. Queue size is 600.
+Pass 592 through queue. Current order is 32. Queue size is 599.
+Pass 593 through queue. Current order is 128. Queue size is 598.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 594 through queue. Current order is 128. Queue size is 597.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 595 through queue. Current order is 64. Queue size is 596.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 596 through queue. Current order is 64. Queue size is 595.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 597 through queue. Current order is 64. Queue size is 594.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 598 through queue. Current order is 64. Queue size is 593.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 599 through queue. Current order is 64. Queue size is 592.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 600 through queue. Current order is 64. Queue size is 591.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 601 through queue. Current order is 64. Queue size is 590.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 602 through queue. Current order is 64. Queue size is 589.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 603 through queue. Current order is 128. Queue size is 588.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 604 through queue. Current order is 128. Queue size is 587.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 605 through queue. Current order is 64. Queue size is 586.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 606 through queue. Current order is 64. Queue size is 585.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 607 through queue. Current order is 64. Queue size is 584.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 608 through queue. Current order is 64. Queue size is 583.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 609 through queue. Current order is 64. Queue size is 582.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 610 through queue. Current order is 64. Queue size is 581.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 611 through queue. Current order is 64. Queue size is 580.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 612 through queue. Current order is 64. Queue size is 579.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 613 through queue. Current order is 64. Queue size is 578.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 614 through queue. Current order is 64. Queue size is 577.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 615 through queue. Current order is 64. Queue size is 576.
+Pass 616 through queue. Current order is 64. Queue size is 577.
+Pass 617 through queue. Current order is 32. Queue size is 576.
+Pass 618 through queue. Current order is 32. Queue size is 575.
+Pass 619 through queue. Current order is 32. Queue size is 574.
+Pass 620 through queue. Current order is 32. Queue size is 573.
+Pass 621 through queue. Current order is 32. Queue size is 572.
+Pass 622 through queue. Current order is 32. Queue size is 571.
+Pass 623 through queue. Current order is 32. Queue size is 570.
+Pass 624 through queue. Current order is 32. Queue size is 569.
+Pass 625 through queue. Current order is 32. Queue size is 568.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 626 through queue. Current order is 32. Queue size is 567.
+Pass 627 through queue. Current order is 32. Queue size is 566.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 628 through queue. Current order is 32. Queue size is 565.
+Pass 629 through queue. Current order is 32. Queue size is 564.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 630 through queue. Current order is 32. Queue size is 563.
+Pass 631 through queue. Current order is 32. Queue size is 562.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 632 through queue. Current order is 32. Queue size is 561.
+Pass 633 through queue. Current order is 128. Queue size is 560.
+Pass 634 through queue. Current order is 64. Queue size is 559.
+Pass 635 through queue. Current order is 64. Queue size is 558.
+Pass 636 through queue. Current order is 64. Queue size is 557.
+Pass 637 through queue. Current order is 64. Queue size is 556.
+Pass 638 through queue. Current order is 128. Queue size is 555.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 639 through queue. Current order is 128. Queue size is 554.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 640 through queue. Current order is 64. Queue size is 553.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 641 through queue. Current order is 64. Queue size is 552.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 642 through queue. Current order is 64. Queue size is 551.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 643 through queue. Current order is 64. Queue size is 550.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 644 through queue. Current order is 64. Queue size is 549.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 645 through queue. Current order is 64. Queue size is 548.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 646 through queue. Current order is 64. Queue size is 547.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 647 through queue. Current order is 64. Queue size is 546.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 648 through queue. Current order is 128. Queue size is 545.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 649 through queue. Current order is 128. Queue size is 544.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 650 through queue. Current order is 64. Queue size is 543.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 651 through queue. Current order is 64. Queue size is 542.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 652 through queue. Current order is 64. Queue size is 541.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 653 through queue. Current order is 64. Queue size is 540.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 654 through queue. Current order is 64. Queue size is 539.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 655 through queue. Current order is 64. Queue size is 538.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 656 through queue. Current order is 64. Queue size is 537.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 657 through queue. Current order is 64. Queue size is 536.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 658 through queue. Current order is 64. Queue size is 535.
+Pass 659 through queue. Current order is 64. Queue size is 536.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 660 through queue. Current order is 64. Queue size is 535.
+Pass 661 through queue. Current order is 64. Queue size is 536.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 662 through queue. Current order is 64. Queue size is 535.
+Pass 663 through queue. Current order is 64. Queue size is 536.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 664 through queue. Current order is 64. Queue size is 535.
+Pass 665 through queue. Current order is 64. Queue size is 536.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 666 through queue. Current order is 128. Queue size is 535.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 667 through queue. Current order is 128. Queue size is 534.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 668 through queue. Current order is 64. Queue size is 533.
+Pass 669 through queue. Current order is 64. Queue size is 533.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 670 through queue. Current order is 64. Queue size is 532.
+Pass 671 through queue. Current order is 64. Queue size is 532.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 672 through queue. Current order is 64. Queue size is 531.
+Pass 673 through queue. Current order is 64. Queue size is 531.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 674 through queue. Current order is 64. Queue size is 530.
+Pass 675 through queue. Current order is 64. Queue size is 530.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 676 through queue. Current order is 128. Queue size is 529.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 677 through queue. Current order is 128. Queue size is 528.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 678 through queue. Current order is 64. Queue size is 527.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 679 through queue. Current order is 64. Queue size is 526.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 680 through queue. Current order is 64. Queue size is 525.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 681 through queue. Current order is 64. Queue size is 524.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 682 through queue. Current order is 64. Queue size is 523.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 683 through queue. Current order is 64. Queue size is 522.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 684 through queue. Current order is 64. Queue size is 521.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 685 through queue. Current order is 64. Queue size is 520.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 686 through queue. Current order is 128. Queue size is 519.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 687 through queue. Current order is 128. Queue size is 518.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 688 through queue. Current order is 32. Queue size is 517.
+Pass 689 through queue. Current order is 32. Queue size is 518.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 690 through queue. Current order is 32. Queue size is 517.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 691 through queue. Current order is 32. Queue size is 516.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 692 through queue. Current order is 32. Queue size is 515.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 693 through queue. Current order is 32. Queue size is 514.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 694 through queue. Current order is 32. Queue size is 513.
+Pass 695 through queue. Current order is 32. Queue size is 514.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 696 through queue. Current order is 32. Queue size is 513.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 697 through queue. Current order is 32. Queue size is 512.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 698 through queue. Current order is 32. Queue size is 511.
+Pass 699 through queue. Current order is 32. Queue size is 512.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 700 through queue. Current order is 32. Queue size is 511.
+Pass 701 through queue. Current order is 32. Queue size is 512.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 702 through queue. Current order is 32. Queue size is 511.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 703 through queue. Current order is 32. Queue size is 510.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 704 through queue. Current order is 64. Queue size is 509.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 705 through queue. Current order is 64. Queue size is 508.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 706 through queue. Current order is 64. Queue size is 507.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 707 through queue. Current order is 64. Queue size is 506.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 708 through queue. Current order is 64. Queue size is 505.
+Pass 709 through queue. Current order is 64. Queue size is 505.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 710 through queue. Current order is 64. Queue size is 504.
+Pass 711 through queue. Current order is 64. Queue size is 504.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 712 through queue. Current order is 64. Queue size is 503.
+Pass 713 through queue. Current order is 64. Queue size is 503.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 714 through queue. Current order is 64. Queue size is 502.
+Pass 715 through queue. Current order is 64. Queue size is 502.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 716 through queue. Current order is 128. Queue size is 501.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 717 through queue. Current order is 128. Queue size is 500.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 718 through queue. Current order is 64. Queue size is 499.
+Pass 719 through queue. Current order is 64. Queue size is 500.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 720 through queue. Current order is 64. Queue size is 499.
+Pass 721 through queue. Current order is 64. Queue size is 500.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 722 through queue. Current order is 64. Queue size is 499.
+Pass 723 through queue. Current order is 64. Queue size is 500.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 724 through queue. Current order is 64. Queue size is 499.
+Pass 725 through queue. Current order is 64. Queue size is 500.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 726 through queue. Current order is 128. Queue size is 499.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 727 through queue. Current order is 128. Queue size is 498.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 728 through queue. Current order is 32. Queue size is 497.
+Pass 729 through queue. Current order is 32. Queue size is 498.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 730 through queue. Current order is 32. Queue size is 497.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 731 through queue. Current order is 32. Queue size is 496.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 732 through queue. Current order is 32. Queue size is 495.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 733 through queue. Current order is 32. Queue size is 494.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 734 through queue. Current order is 32. Queue size is 493.
+Pass 735 through queue. Current order is 32. Queue size is 494.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 736 through queue. Current order is 32. Queue size is 493.
+Pass 737 through queue. Current order is 32. Queue size is 494.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 738 through queue. Current order is 32. Queue size is 493.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 739 through queue. Current order is 32. Queue size is 492.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 740 through queue. Current order is 32. Queue size is 491.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 741 through queue. Current order is 32. Queue size is 490.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 742 through queue. Current order is 32. Queue size is 489.
+Pass 743 through queue. Current order is 32. Queue size is 490.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 744 through queue. Current order is 64. Queue size is 489.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 745 through queue. Current order is 64. Queue size is 488.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 746 through queue. Current order is 64. Queue size is 487.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 747 through queue. Current order is 64. Queue size is 486.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 748 through queue. Current order is 64. Queue size is 485.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 749 through queue. Current order is 64. Queue size is 484.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 750 through queue. Current order is 64. Queue size is 483.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 751 through queue. Current order is 64. Queue size is 482.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 752 through queue. Current order is 64. Queue size is 481.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 753 through queue. Current order is 64. Queue size is 480.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 754 through queue. Current order is 64. Queue size is 479.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 755 through queue. Current order is 64. Queue size is 478.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 756 through queue. Current order is 128. Queue size is 477.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 757 through queue. Current order is 128. Queue size is 476.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 758 through queue. Current order is 128. Queue size is 475.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 759 through queue. Current order is 128. Queue size is 474.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 760 through queue. Current order is 128. Queue size is 473.
+Pass 761 through queue. Current order is 128. Queue size is 474.
+Pass 762 through queue. Current order is 128. Queue size is 475.
+Pass 763 through queue. Current order is 128. Queue size is 476.
+Pass 764 through queue. Current order is 128. Queue size is 477.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 765 through queue. Current order is 128. Queue size is 476.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 766 through queue. Current order is 256. Queue size is 475.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 767 through queue. Current order is 256. Queue size is 474.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 768 through queue. Current order is 256. Queue size is 473.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 769 through queue. Current order is 256. Queue size is 472.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 770 through queue. Current order is 256. Queue size is 471.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 771 through queue. Current order is 256. Queue size is 470.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 772 through queue. Current order is 256. Queue size is 469.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 773 through queue. Current order is 256. Queue size is 468.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 774 through queue. Current order is 128. Queue size is 467.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 775 through queue. Current order is 128. Queue size is 466.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 776 through queue. Current order is 128. Queue size is 465.
+Pass 777 through queue. Current order is 128. Queue size is 466.
+Pass 778 through queue. Current order is 128. Queue size is 467.
+Pass 779 through queue. Current order is 128. Queue size is 468.
+Pass 780 through queue. Current order is 128. Queue size is 469.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 781 through queue. Current order is 128. Queue size is 468.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 782 through queue. Current order is 128. Queue size is 467.
+Pass 783 through queue. Current order is 128. Queue size is 466.
+Pass 784 through queue. Current order is 128. Queue size is 465.
+Pass 785 through queue. Current order is 128. Queue size is 464.
+Pass 786 through queue. Current order is 128. Queue size is 463.
+Pass 787 through queue. Current order is 128. Queue size is 462.
+Pass 788 through queue. Current order is 128. Queue size is 461.
+Pass 789 through queue. Current order is 128. Queue size is 460.
+Pass 790 through queue. Current order is 128. Queue size is 459.
+Pass 791 through queue. Current order is 128. Queue size is 458.
+Pass 792 through queue. Current order is 128. Queue size is 457.
+Pass 793 through queue. Current order is 128. Queue size is 456.
+Pass 794 through queue. Current order is 128. Queue size is 455.
+Pass 795 through queue. Current order is 128. Queue size is 454.
+Pass 796 through queue. Current order is 128. Queue size is 453.
+Pass 797 through queue. Current order is 128. Queue size is 452.
+Pass 798 through queue. Current order is 128. Queue size is 451.
+Pass 799 through queue. Current order is 128. Queue size is 452.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 800 through queue. Current order is 128. Queue size is 451.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 801 through queue. Current order is 128. Queue size is 450.
+Pass 802 through queue. Current order is 128. Queue size is 451.
+Pass 803 through queue. Current order is 128. Queue size is 452.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 804 through queue. Current order is 128. Queue size is 451.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 805 through queue. Current order is 128. Queue size is 450.
+Pass 806 through queue. Current order is 128. Queue size is 451.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 807 through queue. Current order is 128. Queue size is 450.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 808 through queue. Current order is 128. Queue size is 449.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 809 through queue. Current order is 128. Queue size is 448.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 810 through queue. Current order is 128. Queue size is 447.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 811 through queue. Current order is 128. Queue size is 446.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 812 through queue. Current order is 128. Queue size is 445.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 813 through queue. Current order is 128. Queue size is 444.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 814 through queue. Current order is 128. Queue size is 443.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 815 through queue. Current order is 128. Queue size is 442.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 816 through queue. Current order is 128. Queue size is 441.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 817 through queue. Current order is 128. Queue size is 440.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 818 through queue. Current order is 128. Queue size is 439.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 819 through queue. Current order is 128. Queue size is 438.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 820 through queue. Current order is 128. Queue size is 437.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 821 through queue. Current order is 128. Queue size is 436.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 822 through queue. Current order is 128. Queue size is 435.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 823 through queue. Current order is 128. Queue size is 434.
+Pass 824 through queue. Current order is 128. Queue size is 435.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 825 through queue. Current order is 128. Queue size is 434.
+Pass 826 through queue. Current order is 128. Queue size is 435.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 827 through queue. Current order is 128. Queue size is 434.
+Pass 828 through queue. Current order is 128. Queue size is 435.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 829 through queue. Current order is 128. Queue size is 434.
+Pass 830 through queue. Current order is 128. Queue size is 435.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 831 through queue. Current order is 128. Queue size is 434.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 832 through queue. Current order is 128. Queue size is 433.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 833 through queue. Current order is 128. Queue size is 432.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 834 through queue. Current order is 128. Queue size is 431.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 835 through queue. Current order is 128. Queue size is 430.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 836 through queue. Current order is 128. Queue size is 429.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 837 through queue. Current order is 128. Queue size is 428.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 838 through queue. Current order is 128. Queue size is 427.
+Pass 839 through queue. Current order is 128. Queue size is 428.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 840 through queue. Current order is 128. Queue size is 427.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 841 through queue. Current order is 128. Queue size is 426.
+Pass 842 through queue. Current order is 128. Queue size is 427.
+Pass 843 through queue. Current order is 128. Queue size is 428.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 844 through queue. Current order is 128. Queue size is 427.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 845 through queue. Current order is 128. Queue size is 426.
+Pass 846 through queue. Current order is 128. Queue size is 427.
+Pass 847 through queue. Current order is 128. Queue size is 428.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 848 through queue. Current order is 128. Queue size is 427.
+Pass 849 through queue. Current order is 128. Queue size is 428.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 850 through queue. Current order is 128. Queue size is 427.
+Pass 851 through queue. Current order is 128. Queue size is 428.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 852 through queue. Current order is 128. Queue size is 427.
+Pass 853 through queue. Current order is 128. Queue size is 428.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 854 through queue. Current order is 128. Queue size is 427.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 855 through queue. Current order is 128. Queue size is 426.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 856 through queue. Current order is 128. Queue size is 425.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 857 through queue. Current order is 128. Queue size is 424.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 858 through queue. Current order is 128. Queue size is 423.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 859 through queue. Current order is 128. Queue size is 422.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 860 through queue. Current order is 128. Queue size is 421.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 861 through queue. Current order is 128. Queue size is 420.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 862 through queue. Current order is 128. Queue size is 419.
+Pass 863 through queue. Current order is 128. Queue size is 420.
+Pass 864 through queue. Current order is 128. Queue size is 421.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 865 through queue. Current order is 128. Queue size is 420.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 866 through queue. Current order is 128. Queue size is 419.
+Pass 867 through queue. Current order is 128. Queue size is 420.
+Pass 868 through queue. Current order is 128. Queue size is 421.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 869 through queue. Current order is 128. Queue size is 420.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 870 through queue. Current order is 256. Queue size is 419.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 871 through queue. Current order is 256. Queue size is 418.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 872 through queue. Current order is 256. Queue size is 417.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 873 through queue. Current order is 256. Queue size is 416.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 874 through queue. Current order is 128. Queue size is 415.
+Pass 875 through queue. Current order is 128. Queue size is 416.
+Pass 876 through queue. Current order is 128. Queue size is 417.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 877 through queue. Current order is 128. Queue size is 416.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 878 through queue. Current order is 128. Queue size is 415.
+Pass 879 through queue. Current order is 128. Queue size is 416.
+Pass 880 through queue. Current order is 128. Queue size is 417.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 881 through queue. Current order is 128. Queue size is 416.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 882 through queue. Current order is 128. Queue size is 415.
+Pass 883 through queue. Current order is 128. Queue size is 416.
+Pass 884 through queue. Current order is 128. Queue size is 417.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 885 through queue. Current order is 128. Queue size is 416.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 886 through queue. Current order is 128. Queue size is 415.
+Pass 887 through queue. Current order is 128. Queue size is 416.
+Pass 888 through queue. Current order is 128. Queue size is 417.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 889 through queue. Current order is 128. Queue size is 416.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 890 through queue. Current order is 256. Queue size is 415.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 891 through queue. Current order is 256. Queue size is 414.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 892 through queue. Current order is 256. Queue size is 413.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 893 through queue. Current order is 256. Queue size is 412.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 894 through queue. Current order is 128. Queue size is 411.
+Pass 895 through queue. Current order is 128. Queue size is 412.
+Pass 896 through queue. Current order is 128. Queue size is 413.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 897 through queue. Current order is 128. Queue size is 412.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 898 through queue. Current order is 128. Queue size is 411.
+Pass 899 through queue. Current order is 128. Queue size is 412.
+Pass 900 through queue. Current order is 128. Queue size is 413.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 901 through queue. Current order is 128. Queue size is 412.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 902 through queue. Current order is 128. Queue size is 411.
+Pass 903 through queue. Current order is 128. Queue size is 412.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 904 through queue. Current order is 128. Queue size is 411.
+Pass 905 through queue. Current order is 128. Queue size is 412.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 906 through queue. Current order is 128. Queue size is 411.
+Pass 907 through queue. Current order is 128. Queue size is 412.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 908 through queue. Current order is 128. Queue size is 411.
+Pass 909 through queue. Current order is 128. Queue size is 412.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 910 through queue. Current order is 128. Queue size is 411.
+Pass 911 through queue. Current order is 128. Queue size is 412.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 912 through queue. Current order is 128. Queue size is 411.
+Pass 913 through queue. Current order is 128. Queue size is 412.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 914 through queue. Current order is 128. Queue size is 411.
+Pass 915 through queue. Current order is 128. Queue size is 412.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 916 through queue. Current order is 128. Queue size is 411.
+Pass 917 through queue. Current order is 128. Queue size is 412.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 918 through queue. Current order is 128. Queue size is 411.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 919 through queue. Current order is 128. Queue size is 410.
+Pass 920 through queue. Current order is 128. Queue size is 411.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 921 through queue. Current order is 128. Queue size is 410.
+Pass 922 through queue. Current order is 128. Queue size is 411.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 923 through queue. Current order is 128. Queue size is 410.
+Pass 924 through queue. Current order is 128. Queue size is 411.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 925 through queue. Current order is 128. Queue size is 410.
+Pass 926 through queue. Current order is 128. Queue size is 411.
+Pass 927 through queue. Current order is 128. Queue size is 412.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 928 through queue. Current order is 128. Queue size is 411.
+Pass 929 through queue. Current order is 128. Queue size is 412.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 930 through queue. Current order is 128. Queue size is 411.
+Pass 931 through queue. Current order is 128. Queue size is 412.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 932 through queue. Current order is 128. Queue size is 411.
+Pass 933 through queue. Current order is 128. Queue size is 412.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 934 through queue. Current order is 128. Queue size is 411.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 935 through queue. Current order is 128. Queue size is 410.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 936 through queue. Current order is 128. Queue size is 409.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 937 through queue. Current order is 128. Queue size is 408.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 938 through queue. Current order is 128. Queue size is 407.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 939 through queue. Current order is 128. Queue size is 406.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 940 through queue. Current order is 128. Queue size is 405.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 941 through queue. Current order is 128. Queue size is 404.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 942 through queue. Current order is 128. Queue size is 403.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 943 through queue. Current order is 128. Queue size is 402.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 944 through queue. Current order is 128. Queue size is 401.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 945 through queue. Current order is 128. Queue size is 400.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 946 through queue. Current order is 128. Queue size is 399.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 947 through queue. Current order is 128. Queue size is 398.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 948 through queue. Current order is 128. Queue size is 397.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 949 through queue. Current order is 128. Queue size is 396.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 950 through queue. Current order is 128. Queue size is 395.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 951 through queue. Current order is 128. Queue size is 394.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 952 through queue. Current order is 128. Queue size is 393.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 953 through queue. Current order is 128. Queue size is 392.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 954 through queue. Current order is 128. Queue size is 391.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 955 through queue. Current order is 128. Queue size is 390.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 956 through queue. Current order is 128. Queue size is 389.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 957 through queue. Current order is 128. Queue size is 388.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 958 through queue. Current order is 128. Queue size is 387.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 959 through queue. Current order is 128. Queue size is 386.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 960 through queue. Current order is 128. Queue size is 385.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 961 through queue. Current order is 128. Queue size is 384.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 962 through queue. Current order is 128. Queue size is 383.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 963 through queue. Current order is 128. Queue size is 382.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 964 through queue. Current order is 128. Queue size is 381.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 965 through queue. Current order is 128. Queue size is 380.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 966 through queue. Current order is 128. Queue size is 379.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 967 through queue. Current order is 128. Queue size is 378.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 968 through queue. Current order is 128. Queue size is 377.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 969 through queue. Current order is 128. Queue size is 376.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 970 through queue. Current order is 128. Queue size is 375.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 971 through queue. Current order is 128. Queue size is 374.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 972 through queue. Current order is 128. Queue size is 373.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 973 through queue. Current order is 128. Queue size is 372.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 974 through queue. Current order is 64. Queue size is 371.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 975 through queue. Current order is 64. Queue size is 370.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 976 through queue. Current order is 64. Queue size is 369.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 977 through queue. Current order is 64. Queue size is 368.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 978 through queue. Current order is 64. Queue size is 367.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 979 through queue. Current order is 64. Queue size is 366.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 980 through queue. Current order is 64. Queue size is 365.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 981 through queue. Current order is 64. Queue size is 364.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 982 through queue. Current order is 64. Queue size is 363.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 983 through queue. Current order is 64. Queue size is 362.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 984 through queue. Current order is 64. Queue size is 361.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 985 through queue. Current order is 64. Queue size is 360.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 986 through queue. Current order is 64. Queue size is 359.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 987 through queue. Current order is 64. Queue size is 358.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 988 through queue. Current order is 64. Queue size is 357.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 989 through queue. Current order is 64. Queue size is 356.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 990 through queue. Current order is 128. Queue size is 355.
+Pass 991 through queue. Current order is 128. Queue size is 355.
+Pass 992 through queue. Current order is 128. Queue size is 355.
+Pass 993 through queue. Current order is 128. Queue size is 355.
+Pass 994 through queue. Current order is 128. Queue size is 355.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 995 through queue. Current order is 128. Queue size is 354.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 996 through queue. Current order is 128. Queue size is 353.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 997 through queue. Current order is 128. Queue size is 352.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 998 through queue. Current order is 64. Queue size is 351.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 999 through queue. Current order is 64. Queue size is 350.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1000 through queue. Current order is 64. Queue size is 349.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1001 through queue. Current order is 64. Queue size is 348.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1002 through queue. Current order is 64. Queue size is 347.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1003 through queue. Current order is 64. Queue size is 346.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1004 through queue. Current order is 64. Queue size is 345.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1005 through queue. Current order is 64. Queue size is 344.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1006 through queue. Current order is 64. Queue size is 343.
+Pass 1007 through queue. Current order is 64. Queue size is 343.
+Pass 1008 through queue. Current order is 64. Queue size is 343.
+Pass 1009 through queue. Current order is 64. Queue size is 343.
+Pass 1010 through queue. Current order is 64. Queue size is 343.
+Pass 1011 through queue. Current order is 64. Queue size is 343.
+Pass 1012 through queue. Current order is 64. Queue size is 343.
+Pass 1013 through queue. Current order is 64. Queue size is 343.
+Pass 1014 through queue. Current order is 64. Queue size is 343.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1015 through queue. Current order is 64. Queue size is 342.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1016 through queue. Current order is 64. Queue size is 341.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 1017 through queue. Current order is 64. Queue size is 340.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 1018 through queue. Current order is 64. Queue size is 339.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1019 through queue. Current order is 64. Queue size is 338.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1020 through queue. Current order is 64. Queue size is 337.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 1021 through queue. Current order is 64. Queue size is 336.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 1022 through queue. Current order is 128. Queue size is 335.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 1023 through queue. Current order is 128. Queue size is 334.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 1024 through queue. Current order is 128. Queue size is 333.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 1025 through queue. Current order is 128. Queue size is 332.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 1026 through queue. Current order is 64. Queue size is 331.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1027 through queue. Current order is 64. Queue size is 330.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1028 through queue. Current order is 64. Queue size is 329.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1029 through queue. Current order is 64. Queue size is 328.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1030 through queue. Current order is 64. Queue size is 327.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1031 through queue. Current order is 64. Queue size is 326.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1032 through queue. Current order is 64. Queue size is 325.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1033 through queue. Current order is 64. Queue size is 324.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1034 through queue. Current order is 128. Queue size is 323.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1035 through queue. Current order is 128. Queue size is 322.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1036 through queue. Current order is 128. Queue size is 321.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1037 through queue. Current order is 128. Queue size is 320.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1038 through queue. Current order is 64. Queue size is 319.
+Pass 1039 through queue. Current order is 64. Queue size is 319.
+Pass 1040 through queue. Current order is 64. Queue size is 319.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1041 through queue. Current order is 64. Queue size is 318.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1042 through queue. Current order is 64. Queue size is 317.
+Pass 1043 through queue. Current order is 64. Queue size is 317.
+Pass 1044 through queue. Current order is 64. Queue size is 317.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1045 through queue. Current order is 64. Queue size is 316.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1046 through queue. Current order is 128. Queue size is 315.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1047 through queue. Current order is 128. Queue size is 314.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1048 through queue. Current order is 128. Queue size is 313.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1049 through queue. Current order is 128. Queue size is 312.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1050 through queue. Current order is 64. Queue size is 311.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1051 through queue. Current order is 64. Queue size is 310.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1052 through queue. Current order is 64. Queue size is 309.
+Pass 1053 through queue. Current order is 64. Queue size is 309.
+Pass 1054 through queue. Current order is 64. Queue size is 309.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1055 through queue. Current order is 64. Queue size is 308.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1056 through queue. Current order is 64. Queue size is 307.
+Pass 1057 through queue. Current order is 64. Queue size is 307.
+Pass 1058 through queue. Current order is 128. Queue size is 307.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1059 through queue. Current order is 128. Queue size is 306.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1060 through queue. Current order is 128. Queue size is 305.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1061 through queue. Current order is 128. Queue size is 304.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1062 through queue. Current order is 256. Queue size is 303.
+Pass 1063 through queue. Current order is 256. Queue size is 304.
+Pass 1064 through queue. Current order is 256. Queue size is 305.
+Pass 1065 through queue. Current order is 256. Queue size is 306.
+Pass 1066 through queue. Current order is 256. Queue size is 307.
+Pass 1067 through queue. Current order is 256. Queue size is 308.
+Pass 1068 through queue. Current order is 256. Queue size is 309.
+Pass 1069 through queue. Current order is 256. Queue size is 310.
+Pass 1070 through queue. Current order is 256. Queue size is 311.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1071 through queue. Current order is 256. Queue size is 310.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1072 through queue. Current order is 256. Queue size is 309.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1073 through queue. Current order is 256. Queue size is 308.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1074 through queue. Current order is 256. Queue size is 307.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1075 through queue. Current order is 256. Queue size is 306.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1076 through queue. Current order is 256. Queue size is 305.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1077 through queue. Current order is 256. Queue size is 304.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1078 through queue. Current order is 8. Queue size is 303.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1079 through queue. Current order is 8. Queue size is 302.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1080 through queue. Current order is 8. Queue size is 301.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1081 through queue. Current order is 8. Queue size is 300.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1082 through queue. Current order is 8. Queue size is 299.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1083 through queue. Current order is 8. Queue size is 298.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1084 through queue. Current order is 8. Queue size is 297.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1085 through queue. Current order is 8. Queue size is 296.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1086 through queue. Current order is 8. Queue size is 295.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1087 through queue. Current order is 8. Queue size is 294.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1088 through queue. Current order is 8. Queue size is 293.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1089 through queue. Current order is 8. Queue size is 292.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1090 through queue. Current order is 8. Queue size is 291.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1091 through queue. Current order is 8. Queue size is 290.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1092 through queue. Current order is 8. Queue size is 289.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1093 through queue. Current order is 8. Queue size is 288.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1094 through queue. Current order is 16. Queue size is 287.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1095 through queue. Current order is 16. Queue size is 286.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1096 through queue. Current order is 16. Queue size is 285.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1097 through queue. Current order is 16. Queue size is 284.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1098 through queue. Current order is 16. Queue size is 283.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1099 through queue. Current order is 16. Queue size is 282.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1100 through queue. Current order is 16. Queue size is 281.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1101 through queue. Current order is 16. Queue size is 280.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1102 through queue. Current order is 8. Queue size is 279.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1103 through queue. Current order is 8. Queue size is 278.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1104 through queue. Current order is 8. Queue size is 277.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1105 through queue. Current order is 8. Queue size is 276.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1106 through queue. Current order is 8. Queue size is 275.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1107 through queue. Current order is 8. Queue size is 274.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1108 through queue. Current order is 8. Queue size is 273.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1109 through queue. Current order is 8. Queue size is 272.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1110 through queue. Current order is 8. Queue size is 271.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1111 through queue. Current order is 8. Queue size is 270.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1112 through queue. Current order is 8. Queue size is 269.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1113 through queue. Current order is 8. Queue size is 268.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1114 through queue. Current order is 8. Queue size is 267.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1115 through queue. Current order is 8. Queue size is 266.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1116 through queue. Current order is 8. Queue size is 265.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1117 through queue. Current order is 8. Queue size is 264.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1118 through queue. Current order is 16. Queue size is 263.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1119 through queue. Current order is 16. Queue size is 262.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1120 through queue. Current order is 16. Queue size is 261.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1121 through queue. Current order is 16. Queue size is 260.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1122 through queue. Current order is 16. Queue size is 259.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1123 through queue. Current order is 16. Queue size is 258.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1124 through queue. Current order is 16. Queue size is 257.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1125 through queue. Current order is 16. Queue size is 256.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1126 through queue. Current order is 16. Queue size is 255.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1127 through queue. Current order is 16. Queue size is 254.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1128 through queue. Current order is 16. Queue size is 253.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1129 through queue. Current order is 16. Queue size is 252.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1130 through queue. Current order is 16. Queue size is 251.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1131 through queue. Current order is 16. Queue size is 250.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1132 through queue. Current order is 16. Queue size is 249.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1133 through queue. Current order is 16. Queue size is 248.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1134 through queue. Current order is 16. Queue size is 247.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1135 through queue. Current order is 16. Queue size is 246.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1136 through queue. Current order is 16. Queue size is 245.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1137 through queue. Current order is 16. Queue size is 244.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1138 through queue. Current order is 16. Queue size is 243.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1139 through queue. Current order is 16. Queue size is 242.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1140 through queue. Current order is 16. Queue size is 241.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1141 through queue. Current order is 16. Queue size is 240.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1142 through queue. Current order is 16. Queue size is 239.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1143 through queue. Current order is 16. Queue size is 238.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1144 through queue. Current order is 16. Queue size is 237.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1145 through queue. Current order is 16. Queue size is 236.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1146 through queue. Current order is 16. Queue size is 235.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1147 through queue. Current order is 16. Queue size is 234.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1148 through queue. Current order is 16. Queue size is 233.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1149 through queue. Current order is 16. Queue size is 232.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1150 through queue. Current order is 8. Queue size is 231.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1151 through queue. Current order is 8. Queue size is 230.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1152 through queue. Current order is 8. Queue size is 229.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1153 through queue. Current order is 8. Queue size is 228.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1154 through queue. Current order is 8. Queue size is 227.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1155 through queue. Current order is 8. Queue size is 226.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1156 through queue. Current order is 8. Queue size is 225.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1157 through queue. Current order is 8. Queue size is 224.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1158 through queue. Current order is 8. Queue size is 223.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1159 through queue. Current order is 8. Queue size is 222.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1160 through queue. Current order is 8. Queue size is 221.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1161 through queue. Current order is 8. Queue size is 220.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1162 through queue. Current order is 8. Queue size is 219.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1163 through queue. Current order is 8. Queue size is 218.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1164 through queue. Current order is 8. Queue size is 217.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1165 through queue. Current order is 8. Queue size is 216.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1166 through queue. Current order is 16. Queue size is 215.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1167 through queue. Current order is 16. Queue size is 214.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1168 through queue. Current order is 16. Queue size is 213.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1169 through queue. Current order is 16. Queue size is 212.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1170 through queue. Current order is 16. Queue size is 211.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1171 through queue. Current order is 16. Queue size is 210.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1172 through queue. Current order is 16. Queue size is 209.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1173 through queue. Current order is 16. Queue size is 208.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1174 through queue. Current order is 8. Queue size is 207.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1175 through queue. Current order is 8. Queue size is 206.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1176 through queue. Current order is 8. Queue size is 205.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1177 through queue. Current order is 8. Queue size is 204.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1178 through queue. Current order is 8. Queue size is 203.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1179 through queue. Current order is 8. Queue size is 202.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1180 through queue. Current order is 8. Queue size is 201.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1181 through queue. Current order is 8. Queue size is 200.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1182 through queue. Current order is 8. Queue size is 199.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1183 through queue. Current order is 8. Queue size is 198.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1184 through queue. Current order is 8. Queue size is 197.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1185 through queue. Current order is 8. Queue size is 196.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1186 through queue. Current order is 8. Queue size is 195.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1187 through queue. Current order is 8. Queue size is 194.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1188 through queue. Current order is 8. Queue size is 193.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1189 through queue. Current order is 8. Queue size is 192.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1190 through queue. Current order is 32. Queue size is 191.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1191 through queue. Current order is 32. Queue size is 190.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1192 through queue. Current order is 32. Queue size is 189.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1193 through queue. Current order is 32. Queue size is 188.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1194 through queue. Current order is 32. Queue size is 187.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1195 through queue. Current order is 32. Queue size is 186.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1196 through queue. Current order is 32. Queue size is 185.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1197 through queue. Current order is 32. Queue size is 184.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1198 through queue. Current order is 32. Queue size is 183.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1199 through queue. Current order is 32. Queue size is 182.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1200 through queue. Current order is 32. Queue size is 181.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1201 through queue. Current order is 32. Queue size is 180.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1202 through queue. Current order is 32. Queue size is 179.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1203 through queue. Current order is 32. Queue size is 178.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1204 through queue. Current order is 32. Queue size is 177.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1205 through queue. Current order is 32. Queue size is 176.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1206 through queue. Current order is 16. Queue size is 175.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1207 through queue. Current order is 16. Queue size is 174.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1208 through queue. Current order is 16. Queue size is 173.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1209 through queue. Current order is 16. Queue size is 172.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1210 through queue. Current order is 16. Queue size is 171.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1211 through queue. Current order is 16. Queue size is 170.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1212 through queue. Current order is 16. Queue size is 169.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1213 through queue. Current order is 16. Queue size is 168.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1214 through queue. Current order is 32. Queue size is 167.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1215 through queue. Current order is 32. Queue size is 166.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1216 through queue. Current order is 32. Queue size is 165.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1217 through queue. Current order is 32. Queue size is 164.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1218 through queue. Current order is 32. Queue size is 163.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1219 through queue. Current order is 32. Queue size is 162.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1220 through queue. Current order is 32. Queue size is 161.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1221 through queue. Current order is 32. Queue size is 160.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1222 through queue. Current order is 32. Queue size is 159.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1223 through queue. Current order is 32. Queue size is 158.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1224 through queue. Current order is 32. Queue size is 157.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1225 through queue. Current order is 32. Queue size is 156.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1226 through queue. Current order is 16. Queue size is 155.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1227 through queue. Current order is 16. Queue size is 154.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1228 through queue. Current order is 16. Queue size is 153.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1229 through queue. Current order is 16. Queue size is 152.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1230 through queue. Current order is 16. Queue size is 151.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1231 through queue. Current order is 16. Queue size is 150.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1232 through queue. Current order is 16. Queue size is 149.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1233 through queue. Current order is 16. Queue size is 148.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1234 through queue. Current order is 64. Queue size is 147.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 1235 through queue. Current order is 64. Queue size is 146.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 1236 through queue. Current order is 64. Queue size is 145.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 1237 through queue. Current order is 64. Queue size is 144.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 1238 through queue. Current order is 64. Queue size is 143.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 1239 through queue. Current order is 64. Queue size is 142.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 1240 through queue. Current order is 64. Queue size is 141.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 1241 through queue. Current order is 64. Queue size is 140.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 1242 through queue. Current order is 64. Queue size is 139.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 1243 through queue. Current order is 64. Queue size is 138.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 1244 through queue. Current order is 64. Queue size is 137.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 1245 through queue. Current order is 64. Queue size is 136.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 1246 through queue. Current order is 64. Queue size is 135.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 1247 through queue. Current order is 64. Queue size is 134.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 1248 through queue. Current order is 64. Queue size is 133.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 1249 through queue. Current order is 64. Queue size is 132.
+Subgroup looks good. Converting to matrix group and lifting.
+Subgroup is good!
+Pass 1250 through queue. Current order is 64. Queue size is 131.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1251 through queue. Current order is 64. Queue size is 130.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1252 through queue. Current order is 64. Queue size is 129.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1253 through queue. Current order is 64. Queue size is 128.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1254 through queue. Current order is 64. Queue size is 127.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1255 through queue. Current order is 64. Queue size is 126.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1256 through queue. Current order is 64. Queue size is 125.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1257 through queue. Current order is 64. Queue size is 124.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1258 through queue. Current order is 64. Queue size is 123.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1259 through queue. Current order is 64. Queue size is 122.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1260 through queue. Current order is 64. Queue size is 121.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1261 through queue. Current order is 64. Queue size is 120.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1262 through queue. Current order is 64. Queue size is 119.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1263 through queue. Current order is 64. Queue size is 118.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1264 through queue. Current order is 64. Queue size is 117.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1265 through queue. Current order is 64. Queue size is 116.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1266 through queue. Current order is 64. Queue size is 115.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1267 through queue. Current order is 64. Queue size is 114.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1268 through queue. Current order is 64. Queue size is 113.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1269 through queue. Current order is 64. Queue size is 112.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1270 through queue. Current order is 64. Queue size is 111.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1271 through queue. Current order is 64. Queue size is 110.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1272 through queue. Current order is 64. Queue size is 109.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1273 through queue. Current order is 64. Queue size is 108.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1274 through queue. Current order is 64. Queue size is 107.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1275 through queue. Current order is 64. Queue size is 106.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1276 through queue. Current order is 64. Queue size is 105.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1277 through queue. Current order is 64. Queue size is 104.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1278 through queue. Current order is 64. Queue size is 103.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1279 through queue. Current order is 64. Queue size is 102.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1280 through queue. Current order is 64. Queue size is 101.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1281 through queue. Current order is 64. Queue size is 100.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1282 through queue. Current order is 64. Queue size is 99.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1283 through queue. Current order is 64. Queue size is 98.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1284 through queue. Current order is 64. Queue size is 97.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1285 through queue. Current order is 64. Queue size is 96.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1286 through queue. Current order is 64. Queue size is 95.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1287 through queue. Current order is 64. Queue size is 94.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1288 through queue. Current order is 64. Queue size is 93.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1289 through queue. Current order is 64. Queue size is 92.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1290 through queue. Current order is 64. Queue size is 91.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1291 through queue. Current order is 64. Queue size is 90.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1292 through queue. Current order is 64. Queue size is 89.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1293 through queue. Current order is 64. Queue size is 88.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1294 through queue. Current order is 64. Queue size is 87.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1295 through queue. Current order is 64. Queue size is 86.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1296 through queue. Current order is 64. Queue size is 85.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1297 through queue. Current order is 64. Queue size is 84.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1298 through queue. Current order is 64. Queue size is 83.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1299 through queue. Current order is 64. Queue size is 82.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1300 through queue. Current order is 64. Queue size is 81.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1301 through queue. Current order is 64. Queue size is 80.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1302 through queue. Current order is 64. Queue size is 79.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1303 through queue. Current order is 64. Queue size is 78.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1304 through queue. Current order is 64. Queue size is 77.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1305 through queue. Current order is 64. Queue size is 76.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1306 through queue. Current order is 64. Queue size is 75.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1307 through queue. Current order is 64. Queue size is 74.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1308 through queue. Current order is 64. Queue size is 73.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1309 through queue. Current order is 64. Queue size is 72.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1310 through queue. Current order is 64. Queue size is 71.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1311 through queue. Current order is 64. Queue size is 70.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1312 through queue. Current order is 64. Queue size is 69.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1313 through queue. Current order is 64. Queue size is 68.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1314 through queue. Current order is 64. Queue size is 67.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1315 through queue. Current order is 64. Queue size is 66.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1316 through queue. Current order is 64. Queue size is 65.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1317 through queue. Current order is 64. Queue size is 64.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1318 through queue. Current order is 64. Queue size is 63.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1319 through queue. Current order is 64. Queue size is 62.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1320 through queue. Current order is 64. Queue size is 61.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1321 through queue. Current order is 64. Queue size is 60.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1322 through queue. Current order is 64. Queue size is 59.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1323 through queue. Current order is 64. Queue size is 58.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1324 through queue. Current order is 64. Queue size is 57.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1325 through queue. Current order is 64. Queue size is 56.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1326 through queue. Current order is 64. Queue size is 55.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1327 through queue. Current order is 64. Queue size is 54.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1328 through queue. Current order is 64. Queue size is 53.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1329 through queue. Current order is 64. Queue size is 52.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1330 through queue. Current order is 64. Queue size is 51.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1331 through queue. Current order is 64. Queue size is 50.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1332 through queue. Current order is 64. Queue size is 49.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1333 through queue. Current order is 64. Queue size is 48.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1334 through queue. Current order is 64. Queue size is 47.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1335 through queue. Current order is 64. Queue size is 46.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1336 through queue. Current order is 64. Queue size is 45.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1337 through queue. Current order is 64. Queue size is 44.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1338 through queue. Current order is 64. Queue size is 43.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1339 through queue. Current order is 64. Queue size is 42.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1340 through queue. Current order is 64. Queue size is 41.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1341 through queue. Current order is 64. Queue size is 40.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1342 through queue. Current order is 64. Queue size is 39.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1343 through queue. Current order is 64. Queue size is 38.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1344 through queue. Current order is 64. Queue size is 37.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1345 through queue. Current order is 64. Queue size is 36.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1346 through queue. Current order is 64. Queue size is 35.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1347 through queue. Current order is 64. Queue size is 34.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1348 through queue. Current order is 64. Queue size is 33.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1349 through queue. Current order is 64. Queue size is 32.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1350 through queue. Current order is 32. Queue size is 31.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1351 through queue. Current order is 32. Queue size is 30.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1352 through queue. Current order is 32. Queue size is 29.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1353 through queue. Current order is 32. Queue size is 28.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1354 through queue. Current order is 32. Queue size is 27.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1355 through queue. Current order is 32. Queue size is 26.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1356 through queue. Current order is 32. Queue size is 25.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1357 through queue. Current order is 32. Queue size is 24.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1358 through queue. Current order is 32. Queue size is 23.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1359 through queue. Current order is 32. Queue size is 22.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1360 through queue. Current order is 32. Queue size is 21.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1361 through queue. Current order is 32. Queue size is 20.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1362 through queue. Current order is 32. Queue size is 19.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1363 through queue. Current order is 32. Queue size is 18.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1364 through queue. Current order is 32. Queue size is 17.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1365 through queue. Current order is 32. Queue size is 16.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1366 through queue. Current order is 128. Queue size is 15.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1367 through queue. Current order is 128. Queue size is 14.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1368 through queue. Current order is 128. Queue size is 13.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1369 through queue. Current order is 128. Queue size is 12.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1370 through queue. Current order is 128. Queue size is 11.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1371 through queue. Current order is 128. Queue size is 10.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1372 through queue. Current order is 128. Queue size is 9.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1373 through queue. Current order is 128. Queue size is 8.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1374 through queue. Current order is 128. Queue size is 7.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1375 through queue. Current order is 128. Queue size is 6.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1376 through queue. Current order is 128. Queue size is 5.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1377 through queue. Current order is 128. Queue size is 4.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1378 through queue. Current order is 128. Queue size is 3.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1379 through queue. Current order is 128. Queue size is 2.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1380 through queue. Current order is 128. Queue size is 1.
+Subgroup looks good. Converting to matrix group and lifting.
+Pass 1381 through queue. Current order is 128. Queue size is 0.
+Subgroup looks good. Converting to matrix group and lifting.
+
+Total time: 272.149 seconds, Total memory usage: 64.12MB
