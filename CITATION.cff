@@ -9,7 +9,6 @@ message: >-
 type: software
 authors:
   - given-names: Harris
-    name-particle: Harris
     family-names: Daniels
     email: hdaniels@amherst.edu
     affiliation: Amherst College
