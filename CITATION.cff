@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Minimal Subgroups of GL_2(Z_S)
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Harris
+    name-particle: Harris
+    family-names: Daniels
+    email: hdaniels@amherst.edu
+    affiliation: Amherst College
+  - given-names: Jeremy
+    family-names: Rouse
+    email: rouseja@wfu.edu
+    affiliation: Wake Forest University
+license: MIT
